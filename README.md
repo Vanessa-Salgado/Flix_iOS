@@ -39,6 +39,7 @@ Describe any challenges encountered while building the app.
 
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 ![](https://i.imgur.com/jEqa4vK.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/26905586/136746758-302cf406-f24c-4c23-97ff-1cf670bdbb18.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
